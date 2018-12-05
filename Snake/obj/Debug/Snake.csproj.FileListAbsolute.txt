@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe.config
+d:\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.SnakeMainForm.resources
+d:\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe
+d:\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.pdb
+d:\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.exe
+d:\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.pdb
